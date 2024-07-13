@@ -50,6 +50,7 @@ So we obviously don't quite get the remaining half here, further checking the me
 
 On entering the complete flag is when we realise it unfortunately doesn't turn about to be the right one.
 
+Don't bother decoding the binary text in the comment tag, that leads to nothing as well
 
 Moving on further the steghide data in [aperi solve](https://www.aperisolve.com/) does show something is hidden/embedded in the file but has a passphrase, let's check if we can crack the passphrase
 
