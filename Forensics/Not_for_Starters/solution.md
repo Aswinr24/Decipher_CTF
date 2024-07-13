@@ -35,7 +35,8 @@ So we obviously try and superimpose colour on the image, first let us try upload
 On uploading and going through the results we do find half a flag in the superimposed view section `decipher{m3ta_}` and also we don't get anything of interest in the file metadata nor do we find any file embedded within the image file, which means the other half of the flag most likely lies in the second jpg file.
 
 <img src="https://github.com/user-attachments/assets/a72633c8-e8dd-4313-b5eb-5d5dcf082a2a" alt="Screenshot 2024-07-13 004619" width="600">
-<br/><br/>
+<br/>
+
 So Lets Move on with the second file:
 
 Lets check if it is also superimposed since it has something beneath the green background which is visible partially
