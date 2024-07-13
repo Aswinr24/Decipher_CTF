@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/88f20b83-c1da-4505-98ca-651a020f7f83" alt="image" width="600">
 
-As the description says its simple ~~just roam around and get your flag !~~ Never mind, The challenge however comes under Forensics why do you need to roam around even? Let's just check the metadata using to find something interesting.
+As the description says its simple ~~just roam around and get your flag !~~ Never mind, The challenge comes under Forensics bye the way.. why do you need to roam around even? Let's just check the metadata to find something interesting.
 
 <img src="https://github.com/user-attachments/assets/d07d29fd-f1c1-49ca-a482-483cddcc0f38" alt="roam" width="700">
 
